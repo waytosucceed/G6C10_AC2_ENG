@@ -1,0 +1,278 @@
+[
+    {
+        "questionNo": "Q1.",
+        "question": "Henry Ford made cars more accessible by producing them using a(n) ________. ",
+        "options": [
+            "assembly line",
+            "Quadricycle",
+            "horseless carriage",
+            "Model T"
+        ],
+        "correct": 0,
+        "explanation": "The passage states that Henry Ford made cars easier for most people to buy by producing them using an assembly line."
+    },
+    {
+        "questionNo": "Q2.",
+        "question": "Henry Ford was born in ________ in 1863.",
+        "options": [
+            "Detroit",
+            "Michigan",
+            "Edison Illuminating Company",
+            "Ford Motor Company"
+        ],
+        "correct": 1,
+        "explanation": "The passage mentions that Henry Ford was born in Michigan in 1863."
+    },
+    {
+        "questionNo": "Q3.",
+        "question": "How many siblings did Henry Ford have?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correct": 3,
+        "explanation": "The passage states that Henry Ford had 4 siblings."
+    },
+    {
+        "questionNo": "Q4.",
+        "question": "Henry Ford married ________ in 1888.",
+        "options": [
+            "Clara Bryant",
+            "Thomas Edison",
+            "Quadricycle",
+            "Model T"
+        ],
+        "correct": 0,
+        "explanation": "The passage mentions that Henry Ford married Clara Bryant in 1888."
+    },
+    {
+        "questionNo": "Q5.",
+        "question": "After getting married, Henry Ford worked in a ________.",
+        "options": [
+            "sawmill",
+            "factory",
+            "farm",
+            "watch repair shop"
+        ],
+        "correct": 0,
+        "explanation": "The passage states that after getting married, Henry Ford worked in a sawmill."
+    },
+    {
+        "questionNo": "Q6.",
+        "question": "The word 'wages' in the passage refers to:",
+        "options": [
+            "the cost of materials",
+            "the price of cars",
+            "the money paid to workers",
+            "the profits earned by the company"
+        ],
+        "correct": 2,
+        "explanation": "'Wages' in the passage refers to the money paid to employees for their work or labour."
+    },
+    {
+        "questionNo": "Q7.",
+        "question": "In the sentence 'He worked on watches a lot and ended up helping many people fix their watches,' what part of speech is 'their'?",
+        "options": [
+            "Noun",
+            "Verb",
+            "Adjective",
+            "Possessive pronoun"
+        ],
+        "correct": 3,
+        "explanation": "'Their' is used to show possession, indicating that the watches belong to the people Henry Ford helped. It's a possessive pronoun modifying 'watches.'"
+    },
+    {
+        "questionNo": "Q8.",
+        "question": "In the phrase 'gasoline-powered horseless carriage' which word is an adjective?",
+        "options": [
+            "Gasoline",
+            "Powered",
+            "Horseless",
+            "Carriage"
+        ],
+        "correct": 2,
+        "explanation": "'Horseless' is an adjective describing the carriage, indicating that it doesn't use horses for power."
+    },
+    {
+        "questionNo": "Q9.",
+        "question": "Which word in the following sentence is an adjective: 'His 'Model T' car, released in 1908, was easy to drive and repair'?",
+        "options": [
+            "Model",
+            "Released",
+            "Easy",
+            "Repair"
+        ],
+        "correct": 2,
+        "explanation": "'Easy' is an adjective describing the qualities of driving and repairing the Model T car."
+    },
+    {
+        "questionNo": "Q10.",
+        "question": "What was the name of Henry Ford's gasoline-powered horseless carriage?",
+        "options": [
+            "Model T",
+            "Assembly Line",
+            "Quadricycle",
+            "Clara Bryant"
+        ],
+        "correct": 2,
+        "explanation": "The passage states that Henry Ford's gasoline-powered horseless carriage was called the Quadricycle."
+    },
+    {
+        "questionNo": "Q11.",
+        "question": "Henry Ford started the ________ after leaving his first company.",
+        "options": [
+            "Edison Illuminating Company",
+            "Quadricycle Company",
+            "Ford Motor Company",
+            "Assembly Line Company"
+        ],
+        "correct": 2,
+        "explanation": "The passage mentions that Henry Ford eventually started the Ford Motor Company after leaving his first company."
+    },
+    {
+        "questionNo": "Q12.",
+        "question": "The word 'varied' is closest in meaning to:",
+        "options": [
+            "different",
+            "similar",
+            "expensive",
+            "cheap"
+        ],
+        "correct": 0,
+        "explanation": "'Varied' means diverse or consisting of different elements, which is closest in meaning to 'different.'"
+    },
+    {
+        "questionNo": "Q13.",
+        "question": "The word 'accessible' in the passage means:",
+        "options": [
+            "easy to understand",
+            "easy to obtain or use",
+            "easy to repair",
+            "easy to drive"
+        ],
+        "correct": 1,
+        "explanation": "In the context of the passage, 'accessible' means that Henry Ford made cars easier for most people to buy or obtain."
+    },
+    {
+        "questionNo": "Q14.",
+        "question": "What did Thomas Edison encourage Henry Ford to keep working on?",
+        "options": [
+            "The assembly line",
+            "The Quadricycle",
+            "The horseless carriage",
+            "The Model T"
+        ],
+        "correct": 2,
+        "explanation": "The passage mentions that Thomas Edison encouraged Henry Ford to keep working on his plans for his horseless carriage, powered by a motor."
+    },
+    {
+        "questionNo": "Q15.",
+        "question": "Which of the following is a noun in the sentence 'Ford worked for the Edison Illuminating Company'?",
+        "options": [
+            "Worked",
+            "Edison",
+            "Illuminating",
+            "For"
+        ],
+        "correct": 1,
+        "explanation": "'Edison' is a proper noun, referring to Thomas Edison as part of the company name."
+    },
+    {
+        "questionNo": "Q16.",
+        "question": "What made many people want to buy the Model T?",
+        "options": [
+            "It was expensive",
+            "It was difficult to repair",
+            "It was easy to drive and repair",
+            "It came in many colors"
+        ],
+        "correct": 2,
+        "explanation": "The passage mentions that the Model T was easy to drive and repair, which made many people want one."
+    },
+    {
+        "questionNo": "Q17.",
+        "question": "In 1879, at the age of 16, Henry Ford moved to ________ to start working with machines.",
+        "options": [
+            "Michigan",
+            "Detroit",
+            "Edison Illuminating Company",
+            "Ford Motor Company"
+        ],
+        "correct": 1,
+        "explanation": "The passage states that in 1879 when he was 16 years old, Henry Ford moved to Detroit to start working with machines."
+    },
+    {
+        "questionNo": "Q18.",
+        "question": "In the sentence 'He needed to make a lot of cars very quickly,' which word is an adverb?",
+        "options": [
+            "Needed",
+            "Make",
+            "Lot",
+            "Quickly"
+        ],
+        "correct": 3,
+        "explanation": "'Quickly' is an adverb modifying the verb 'make,' describing how the cars needed to be produced."
+    },
+    {
+        "questionNo": "Q19.",
+        "question": "Which of the following did Henry Ford not do when he was young?",
+        "options": [
+            "Work on the family farm",
+            "Take things apart to see how they worked",
+            "Help people fix their watches",
+            "Design the Model T car"
+        ],
+        "correct": 3,
+        "explanation": "The passage does not mention Henry Ford designing the Model T car when he was young. He worked on the farm, took things apart, and helped people fix their watches."
+    },
+    {
+        "questionNo": "Q20.",
+        "question": "What is the main theme of this story?",
+        "options": [
+            "The invention of the car",
+            "The importance of education",
+            "Innovation and mass production in the automotive industry",
+            "The life of a farmer in Michigan"
+        ],
+        "correct": 2,
+        "explanation": "The story primarily focuses on Henry Ford's innovations in car manufacturing, particularly his use of the assembly line to mass-produce affordable cars, making them accessible to many Americans."
+    },
+   
+        {
+            "questionNo": "Q21.",
+            "question": "In addition to using the assembly line, what was Henry Ford known for?",
+            "options": [
+                "Paying his workers low wages",
+                "Paying his worker’s fair wages",
+                "Offering a wide variety of car colours",
+                "Producing cars slowly"
+            ],
+            "correct": 1,
+            "explanation": "The passage mentions that in addition to using the assembly line, Henry Ford was known for paying his workers fair wages."
+        },
+        {
+            "questionNo": "Q22.",
+            "question": "Which title best captures the essence of this story?",
+            "options": [
+                "The History of the Model T",
+                "Henry Ford: Revolutionising the Automobile Industry"
+            ],
+            "correct": 1,
+            "explanation": "This title describes Ford's significant impact on the automotive industry, including his innovations in manufacturing and his role in making cars more accessible to the average American."
+        },
+        {
+            "questionNo": "Q23.",
+            "question": "Which of the following could be the central idea of the story of Henry Ford's success?",
+            "options": [
+                "Agricultural innovation",
+                "The assembly line",
+                "Electrical engineering",
+                "Watch repair"
+            ],
+            "correct": 1,
+            "explanation": "The assembly line is described as a key innovation that allowed Ford to produce cars quickly and efficiently, significantly reducing costs and increasing accessibility."
+        }
+    ]
+    
